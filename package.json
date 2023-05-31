@@ -1,14 +1,13 @@
 {
-  "name": "hello_world",
+  "name": "auto-responder-whatsapp",
   "version": "1.0.0",
-  "description": "hello world sample for NodeJS",
+  "description": "Simple Auto Responder for WhatsApp API",
   "main": "app.js",
-  "repository": "https://github.com/awslabs/aws-sam-cli/tree/develop/samcli/local/init/templates/cookiecutter-aws-sam-hello-nodejs",
-  "author": "SAM CLI",
+  "repository": "https://github.com/caci/auto-responder-whatsapp",
+  "author": "Caciano Gabriel",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.4",
-    "translatte": "^3.0.1"
+    "axios": "^0.21.4"
   },
   "scripts": {
     "test": "mocha tests/unit/"

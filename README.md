@@ -1,3 +1,2 @@
-# webhook-whatssapp
-
-- Npm i (Node version 14)
+# WhatsApp Auto Responder
+- Npm i (Node version 18)
